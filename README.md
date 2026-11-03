@@ -29,9 +29,7 @@ Private by design: your notes stay on your phone. Nothing is uploaded; the only 
 
 ## Get it
 
-Presentation Notes is published in the **Even Hub**, the app store for the G2: [hub.evenrealities.com/catalogue](https://hub.evenrealities.com/catalogue). On your iPhone, open the Even Realities app, go to Even Hub and search for "Presentation Notes".
-
-*The app is currently in review and appears in the catalogue once it is approved.*
+Presentation Notes is published in the **Even Hub**, the app store for the G2: [hub.evenrealities.com/catalogue/ch.gafner.presentationnotes](https://hub.evenrealities.com/catalogue/ch.gafner.presentationnotes). On your iPhone, open the Even Realities app, go to Even Hub and search for "Presentation Notes".
 
 ## Screenshots
 
